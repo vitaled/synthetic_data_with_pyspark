@@ -1,1 +1,1 @@
-# synthetic_data_with_pyspark
+# How to create a synthetic but realistic dataset using PySpark
